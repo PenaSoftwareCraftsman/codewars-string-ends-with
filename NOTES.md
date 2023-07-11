@@ -23,3 +23,6 @@ TODO:
 # Pomodoro 1 🍅:
 
 - Domains search ✅ 
+
+- TESTING
+    - Should return false when the first argument is "a" but the second argument is empty 🚧
