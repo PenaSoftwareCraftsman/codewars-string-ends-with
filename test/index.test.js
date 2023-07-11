@@ -20,4 +20,12 @@ describe('StringEndsWith', () => {
 
         expect(StringEndsWith(str, endOfTheString)).toBe(false);
     });
+
+
+    it('Should return true when the first argument is "ab" and the second argument is "b"', () => {
+        let str = 'ab';
+        let endOfTheString = 'b';
+
+        expect(StringEndsWith(str, endOfTheString)).toBe(true);
+    });
 });
