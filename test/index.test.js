@@ -13,4 +13,11 @@ describe('StringEndsWith', () => {
 
         expect(StringEndsWith(str, endOfTheString)).toBe(true);
     });
+
+    it('Should return false when the first argument is "ab" and the second argument is "c"', () => {
+        let str = 'ab';
+        let endOfTheString = 'c';
+
+        expect(StringEndsWith(str, endOfTheString)).toBe(false);
+    });
 });
