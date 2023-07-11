@@ -32,4 +32,4 @@ TODO:
 
 # Pomodoro 2 🍅:
 - TESTING
-    - Should return true when the first argument is "abc" and the second one is "bc" 🚧
+    - Should return true when the first argument is "abc" and the second one is "bc" ✅
