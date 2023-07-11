@@ -1,9 +1,10 @@
-# KATA NAME
-
-XXXX A short description XXXXXX
+# String ends with?
 
 
-[XX KATA NAME FOR THE LINK](LINK)
+returns true if the first argument passed in ends with the 2nd argument.
+
+
+[String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/train/javascript)
 
 ## Prerequisites
 

@@ -1,0 +1,25 @@
+{
+  "name": "codewars-string-ends-with",
+  "version": "1.0.0",
+  "description": "Returns true if the first argument passed in ends with the 2nd argument.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watchAll --coverage=true --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenaSoftwareCraftsman/codewars-string-ends-with.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PenaSoftwareCraftsman/codewars-string-ends-with/issues"
+  },
+  "homepage": "https://github.com/PenaSoftwareCraftsman/codewars-string-ends-with#readme",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
