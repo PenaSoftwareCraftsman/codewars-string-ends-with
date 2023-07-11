@@ -25,4 +25,5 @@ TODO:
 - Domains search ✅ 
 
 - TESTING
-    - Should return false when the first argument is "a" but the second argument is empty 🚧
+    - Should return false when the first argument is "a" but the second argument is empty ✅ 
+    - Should return true when the first argument is "b" and the second argument is "b" 🚧
