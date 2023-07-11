@@ -9,9 +9,17 @@ solution('abc', 'd') // returns false
 
 # Domains
 
+- input: two strings
+    - First one with the string to compare
+    - Second one with the end of the string to compare
+- output:
+    - true or false if the second argument is the end of the first argument
+
 **Label**  
 ✅ done 🚧 WIP ❌ ERROR
 
 TODO:
 
 # Pomodoro 1 🍅:
+
+- Domains search ✅ 
