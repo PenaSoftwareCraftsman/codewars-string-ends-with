@@ -1,4 +1,5 @@
-const StringEndsWith = () =>{
+const StringEndsWith = (str, endOfTheString) =>{
+    if(str == endOfTheString) return true;
 
     return false;
 }
